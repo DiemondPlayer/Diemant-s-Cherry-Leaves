@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      	{"model": "minecraft:block/cherry_leaves0", "weight":3},
+	{"model": "minecraft:block/cherry_leaves1", "weight":3},
+	{"model": "minecraft:block/cherry_leaves2", "weight":3},
+	{"model": "minecraft:block/cherry_leaves3", "weight":4},
+	{"model": "minecraft:block/cherry_leaves4", "weight":4},
+	{"model": "minecraft:block/cherry_leaves5", "weight":4}
+    ]
+  }
+}
